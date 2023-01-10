@@ -6,6 +6,7 @@ def transform():
 
 def process():
     print("Processing data")
+    print("Filtering data")
 
 def write():
     print("Writing results")

@@ -1,4 +1,5 @@
-from .handler import run
+#from .handler import run
+import etl.handler
 
 if  __name__ == '__main__':
-    run()
+    etl.handler.run()
