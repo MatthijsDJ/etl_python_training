@@ -1,2 +1,4 @@
 etl_venv
 __pycache__
+dist
+etl.egg-info
