@@ -9,4 +9,4 @@ setup(
     author='Matthijs',
     author_email='m.d.jong@gmail.com',
     packages=['etl']
-)                
+)

@@ -1,6 +1,5 @@
-from etl import ETLJob
 import pandas as pd
-
+from etl import ETLJob
 
 
 class CRMETLJob(ETLJob):
